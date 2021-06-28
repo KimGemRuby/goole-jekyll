@@ -1,0 +1,66 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: white;
+    color: white;
+    font-size: 30px;
+  }
+
+#logo {
+    text-align:center;
+    justify-content: center;
+    grid-area: 1 / 1 / 2 / 5;
+}
+
+#google research barre{
+    display: flex;
+    justify-content: center;
+    border: 1px solid gray;
+    border-radius: 5000000000px;
+    width: 550px;
+    height: 40px;
+    align-items: center;
+    vertical-align: center;
+}
+
+
+
+#google research barre:hover {
+    box-shadow: 1px 1px 1px 1px #bbb ;
+}
+
+#barre {
+    width: 530px;
+    height: 36px;
+    border: 0px;
+}
+
+#boitecentre {
+    display: grid;
+    padding: 100px 300px 100px 300px;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+ 
+}
+
+footer2{
+    position:relative}.EzVRq{
+        display:block;
+        padding:15px;white-space:nowrap}a.EzVRq,button.EzVRq{
+            color:#70757a}button.EzVRq{cursor:pointer;
+                width:100%;text-align:left}button.EzVRq:hover,button.EzVRq:active{
+                    text-decoration:underline}.Qff0zd
+                        display:none;position:absolute;
+                        list-style:none;background:#fff;
+                        border:1px solid #70757a}</style>
+}
